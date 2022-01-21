@@ -1,1 +1,1 @@
-# Veri-G-rselle-tirme
+Buradaki kodlar "globalaihub.com" taki "Veri Görselleştirme" kursundaki alıştırmalardır.
